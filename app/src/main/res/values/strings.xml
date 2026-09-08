@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kampusgram</string>
+    <string name="toolbar_title">KAMPUSGRAM</string>
+    <string name="logo_letter">K</string>
+    <string name="more_symbol">⋮</string>
+
+    <!-- GANTI SESUAI DATA MAHASISWA -->
+    <string name="student_name">Muhammad Ardra Wirya Krisnayadi Putra</string>
+    <string name="student_initials">Ardra</string>
+    <string name="student_username">@555857</string>
+    <string name="student_id">NIM • 25/555857/SV/25856</string>
+    <string name="student_program">D4 Teknologi Rekayasa Perangkat Lunak • UGM</string>
+
+    <string name="student_bio">Mahasiswa yang suka mengembangkan aplikasi, mengeksplorasi UI/UX, dan mengubah ide sederhana menjadi produk digital.</string>
+    <string name="student_bio_edited">Profil diperbarui! Saat ini sedang belajar Android Development menggunakan Kotlin dan XML.</string>
+
+    <string name="posts_value">6</string>
+    <string name="posts_label">Postingan</string>
+    <string name="followers_value">248</string>
+    <string name="followers_label">Pengikut</string>
+    <string name="following_value">180</string>
+    <string name="following_label">Mengikuti</string>
+
+    <string name="edit_profile">Edit Profil</string>
+    <string name="undo_edit">Batalkan Edit</string>
+    <string name="share_profile">Bagikan Profil</string>
+    <string name="focus_text">✦ Fokus saat ini: Android Development</string>
+
+    <string name="tab_posts">▦ POSTINGAN</string>
+    <string name="tab_tagged">♙ DITANDAI</string>
+
+    <string name="post_one_icon">&lt;/&gt;</string>
+    <string name="post_one_title">ANDROID\nPROJECT</string>
+
+    <string name="post_two_icon">UX</string>
+    <string name="post_two_title">UI/UX\nDESIGN</string>
+
+    <string name="post_three_icon">01</string>
+    <string name="post_three_title">FIRST\nSEMESTER</string>
+
+    <string name="post_four_icon">UGM</string>
+    <string name="post_four_title">CAMPUS\nLIFE</string>
+
+    <string name="post_five_icon">IDEA</string>
+    <string name="post_five_title">DIGITAL\nINNOVATION</string>
+
+    <string name="post_six_icon">☕</string>
+    <string name="post_six_title">DAILY\nROUTINE</string>
+
+    <string name="nav_home">⌂\nBeranda</string>
+    <string name="nav_search">⌕\nCari</string>
+    <string name="nav_add">＋\nBuat</string>
+    <string name="nav_activity">♡\nAktivitas</string>
+    <string name="nav_profile">●\nProfil</string>
+
+    <string name="profile_updated">Profil berhasil diperbarui</string>
+    <string name="profile_restored">Perubahan profil dibatalkan</string>
+    <string name="share_chooser">Bagikan profil melalui</string>
+    <string name="share_profile_text">Lihat profil %1$s di Kampusgram!\n%2$s\n%3$s</string>
+
+    <string name="open_post">Membuka postingan ke-%1$d</string>
+    <string name="posts_message">Kamu mempunyai 6 postingan</string>
+    <string name="followers_message">248 orang mengikuti profilmu</string>
+    <string name="following_message">Kamu mengikuti 180 akun</string>
+    <string name="posts_tab_message">Menampilkan seluruh postingan</string>
+    <string name="tagged_tab_message">Belum ada postingan yang menandai kamu</string>
+
+    <string name="menu_top">Kembali ke atas</string>
+    <string name="menu_about">Tentang aplikasi</string>
+    <string name="back_to_top">Kembali ke bagian atas profil</string>
+    <string name="about_message">Kampusgram dibuat menggunakan Kotlin dan XML Layout</string>
+
+    <string name="demo_home">Halaman Beranda masih berupa demo</string>
+    <string name="demo_search">Fitur pencarian masih berupa demo</string>
+    <string name="demo_add">Fitur membuat postingan masih berupa demo</string>
+    <string name="demo_activity">Belum ada aktivitas baru</string>
+    <string name="current_profile">Kamu sedang berada di halaman Profil</string>
+
+    <!-- STRING BAWAAN TEMPLATE ANDROID STUDIO -->
+    <string name="action_settings">Settings</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="lorem_ipsum">Ini adalah konten contoh pada fragment bawaan aplikasi.</string>
+
+</resources>
